@@ -1,0 +1,16 @@
+[
+  {
+    "name": "DEMO ONLY - fictional welcome bonus (not a real BC.GAME promotion)",
+    "source_url": null,
+    "eligibility": "fictional example",
+    "wagering_multiple": "30",
+    "wagering_base": "bonus_plus_deposit",
+    "expiry": "n/a",
+    "withdrawal_restrictions": "fictional example",
+    "terms": "Synthetic terms used only to demonstrate the bonus calculator.",
+    "bonus_amount": "1000",
+    "deposit_amount": "1000",
+    "withdrawable_explicit": true,
+    "house_edge": 0.01
+  }
+]
